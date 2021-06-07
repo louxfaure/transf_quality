@@ -1,1 +1,2 @@
-# transf_quality
+# transf_quality & notices délocalisées
+
